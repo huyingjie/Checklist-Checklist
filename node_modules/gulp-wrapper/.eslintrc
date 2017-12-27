@@ -1,0 +1,17 @@
+
+{
+  "env": {
+    "browser": false,
+    "node": true
+  },
+  "rules": {
+     "eqeqeq": 2,
+     "curly": 2,
+     "quotes": [2, "single"],
+     "no-multi-spaces": 0,
+     "new-cap": 0,
+     "key-spacing": 0,
+     "dot-notation": 1,
+     "no-underscore-dangle": 0
+   }
+}

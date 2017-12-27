@@ -1,0 +1,42 @@
+html, body {
+    height: 100%;
+}
+
+html {
+    display: table;
+    margin: auto;
+    width: 800px
+}
+
+body {
+    display: table-cell;
+}
+
+h1 {
+  padding-top: 80px;
+  padding-bottom: 20px;
+  color: purple;
+}
+h2 {
+  padding-top: 0px
+}
+h3 {
+  font-size: 1.25em;
+}
+a {
+  color: red;
+}
+
+a:hover {
+  color: red
+}
+
+
+
+p {
+  padding-top: 30px;
+}
+
+#intro{
+  border-bottom: 1px solid #333;
+}

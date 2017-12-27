@@ -1,0 +1,8 @@
+{
+ "dependencies": {
+  "gulp": "^3.9.1",
+  "gulp-markdown": "1.1.0",
+  "gulp-rename": "^1.2.2",
+  "gulp-wrapper": "^1.0.0"
+ }
+}
