@@ -3,10 +3,10 @@
 <div align="center">🌈  A Curated List of Checklists ✔︎✔︎</div>
 
 <div align="center" style="padding-bottom:10px">
-	<a href="https://github.com/huyingjie/Checklist-Checklist"><img src="https://img.shields.io/badge/%E2%98%B0-%E2%9C%93-brightgreen.svg"></a>
-	<a href="https://github.com/huyingjie/Checklist-Checklist"><img src="https://img.shields.io/badge/Checklist-Checklist-brightgreen.svg"></a>
-	<a href="https://github.com/huyingjie/Checklist-Checklist"><img src="https://img.shields.io/badge/%E2%98%B0-%E2%9C%93-brightgreen.svg"></a>
-	
+	<a href="http://checklist.yingjiehu.com/"><img src="https://img.shields.io/badge/%E2%98%B0-%E2%9C%93-brightgreen.svg"></a>
+	<a href="http://checklist.yingjiehu.com/"><img src="https://img.shields.io/badge/Checklist-Checklist-brightgreen.svg"></a>
+	<a href="http://checklist.yingjiehu.com/"><img src="https://img.shields.io/badge/%E2%98%B0-%E2%9C%93-brightgreen.svg"></a><br>
+	<a href="http://checklist.yingjiehu.com/"><img src="https://travis-ci.org/huyingjie/Checklist-Checklist.svg?branch=master"></a>
 </div>
 <div align="center">
 	<a href="#Help-Wanted">Help Wanted</a>&nbsp;&nbsp;&nbsp;
@@ -252,25 +252,25 @@ Ways you can help
 * Keep descriptions concise, clear and simple, and end them with a period / stop.
 * New categories, or improvements to the existing ones are also welcome.
 * Make sure your text editor is set to remove trailing whitespace.
-* Please add a must-watch badge in the list added. <a href="https://github.com/huyingjie/Checklist-Checklist"><img src="https://img.shields.io/badge/Awesome-Checklist-blue.svg"></a>
+* Please add a must-watch badge in the list added. <a href="http://checklist.yingjiehu.com/"><img src="https://img.shields.io/badge/Awesome-Checklist-blue.svg"></a>
 
 	You can use whatever color you like by replacing `<COLOR>` in 
 	
-	`<a href="https://github.com/huyingjie/Checklist-Checklist"><img src="https://img.shields.io/badge/Awesome-Checklist-<CODE>.svg"></a>`.
+	`<a href="http://checklist.yingjiehu.com/"><img src="https://img.shields.io/badge/Awesome-Checklist-<CODE>.svg"></a>`.
 	
 	Example:
 	
-	* pink `ff69b4` <a href="https://github.com/huyingjie/Checklist-Checklist"><img src="https://img.shields.io/badge/Awesome-Checklist-ff69b4.svg"></a>
+	* pink `ff69b4` <a href="http://checklist.yingjiehu.com/"><img src="https://img.shields.io/badge/Awesome-Checklist-ff69b4.svg"></a>
 
-		`<a href="https://github.com/huyingjie/Checklist-Checklist"><img src="https://img.shields.io/badge/Awesome-Checklist-ff69b4.svg"></a>`
+		`<a href="http://checklist.yingjiehu.com/"><img src="https://img.shields.io/badge/Awesome-Checklist-ff69b4.svg"></a>`
 		
-	* red <a href="https://github.com/huyingjie/Checklist-Checklist"><img src="https://img.shields.io/badge/Awesome-Checklist-red.svg"></a>
+	* red <a href="http://checklist.yingjiehu.com/"><img src="https://img.shields.io/badge/Awesome-Checklist-red.svg"></a>
 	
-		`<a href="https://github.com/huyingjie/Checklist-Checklist"><img src="https://img.shields.io/badge/Awesome-Checklist-red.svg"></a>`
+		`<a href="http://checklist.yingjiehu.com/"><img src="https://img.shields.io/badge/Awesome-Checklist-red.svg"></a>`
 		
-	* blue <a href="https://github.com/huyingjie/Checklist-Checklist"><img src="https://img.shields.io/badge/Awesome-Checklist-blue.svg"></a>
+	* blue <a href="http://checklist.yingjiehu.com/"><img src="https://img.shields.io/badge/Awesome-Checklist-blue.svg"></a>
 	
-		`<a href="https://github.com/huyingjie/Checklist-Checklist"><img src="https://img.shields.io/badge/Awesome-Checklist-blue.svg"></a>`
+		`<a href="http://checklist.yingjiehu.com/"><img src="https://img.shields.io/badge/Awesome-Checklist-blue.svg"></a>`
 		
 #### Quality standard
 
