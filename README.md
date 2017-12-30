@@ -75,8 +75,8 @@
 * Ruby on Rails 
 	* [Upgrade](http://www.rails-upgrade-checklist.com/) | [Code](https://github.com/jwo/rails-upgrade_checklist)
 	* Security
-		* [brunofacca](https://github.com/brunofacca/zen-rails-security-checklist)
-		* [eliotsykes](https://github.com/eliotsykes/rails-security-checklist)
+		* by [brunofacca](https://github.com/brunofacca/zen-rails-security-checklist)
+		* by [eliotsykes](https://github.com/eliotsykes/rails-security-checklist)
 
 ## <a id="Web-Development"></a>Web Development
 ### <a id="Front-End-Development"></a>Front-End Development
@@ -168,8 +168,8 @@
 * [Security](http://wpsecuritychecklist.org/items/) | [Code](https://github.com/RafaelFunchal/wordpress-security-checklist)
 * [SEO](https://github.com/douglasanro/wordpress-seo-checklist)
 * Publish website
-	* [arobbins](https://github.com/arobbins/wp-deploy-checklist)
-	* [ingvijonasson](https://github.com/ingvijonasson/checklist-wordpress)
+	* by [arobbins](https://github.com/arobbins/wp-deploy-checklist)
+	* by [ingvijonasson](https://github.com/ingvijonasson/checklist-wordpress)
 
 ## <a id="Marketing"></a>Marketing
 * [Side Project Marketing](https://github.com/karllhughes/side-project-marketing/blob/master/marketing-checklist.md)
