@@ -103,6 +103,7 @@
 * React
 	* [Upgrading ES5 React to ES6+](https://github.com/cht8687/React-ES5-To-ES6-Checklist)
 	* by [harrisrobin](https://github.com/harrisrobin/react-native-checklist) - A check list to refer to before starting a react-native project
+	* [Things to learn in React before using Redux](https://www.robinwieruch.de/learn-react-before-using-redux/)
 * [NPM Module](https://github.com/bahmutov/npm-module-checklist)
 * Drupal
 	* [Drupal 8](https://github.com/theodorosploumis/drupal8-checklist)
