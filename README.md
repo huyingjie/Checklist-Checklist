@@ -200,6 +200,7 @@
 ## <a id="Travelling"></a>Travelling
 * [US](https://github.com/xzyfer/us-travel-checklist)
 * [Abroad](https://github.com/jpcaparas/travel-checklist)
+* [Hiking](https://github.com/histrio/awesome-hiking)
 
 ## <a id="Games"></a>Games
 * [Dark Souls 3](http://zkjellberg.github.io/dark-souls-3-cheat-sheet/) | [Code](https://github.com/ZKjellberg/dark-souls-3-cheat-sheet)
