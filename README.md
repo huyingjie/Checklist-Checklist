@@ -28,7 +28,7 @@
 	* [Back-End Development](#Back-End-Development)
 	* [Web App](#Web-App)
 * [App & Project Development](#App-Project-Development)
-* [Wordpress](#Wordpress)
+* [WordPress](#WordPress)
 * [Marketing](#Marketing)
 * [Personal Security](#Personal-Security)
 * [Event](#Event)
@@ -158,7 +158,7 @@
 	* by [whitef0x0](https://github.com/whitef0x0/app-store-checklist)
 	* by [DevMountain](https://github.com/DevMountain/ios-code-review-checklist)
 
-## <a id="Wordpress"></a>	Wordpress
+## <a id="WordPress"></a>	WordPress
 * Themes Review
 	* by [thanhluu](https://github.com/thanhluu/wp-themes-review)
 	* by [grappler](https://github.com/grappler/theme-review-checklist)
