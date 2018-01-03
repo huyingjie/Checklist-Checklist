@@ -158,7 +158,7 @@
 	* by [whitef0x0](https://github.com/whitef0x0/app-store-checklist)
 	* by [DevMountain](https://github.com/DevMountain/ios-code-review-checklist)
 
-## <a id="Wordpress"></a>	Wordpress
+## <a id="Wordpress"></a>	WordPress
 * Themes Review
 	* by [thanhluu](https://github.com/thanhluu/wp-themes-review)
 	* by [grappler](https://github.com/grappler/theme-review-checklist)
