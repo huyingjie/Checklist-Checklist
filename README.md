@@ -82,7 +82,7 @@
 ### <a id="Front-End-Development"></a>Front-End Development
 * [Before Front-End Development](https://github.com/rcherny/Front-End-Architecture-Checklist/blob/master/BaseFrontEndArch.md)
 * [Feature Building](https://github.com/soleo/front-end-building-checklist)
-* [Opquast Best Pratices](https://checklists.opquast.com)
+* [Opquast Web Quality](https://www.opquast.com/opquast-web-quality-checklist/)
 * After Front-End Development
 	* by [thedaviddias](https://frontendchecklist.io/) | [Code](https://github.com/thedaviddias/Front-End-Checklist)
 	* by [drublic](https://github.com/drublic/checklist)
