@@ -82,7 +82,6 @@
 ### <a id="Front-End-Development"></a>Front-End Development
 * [Before Front-End Development](https://github.com/rcherny/Front-End-Architecture-Checklist/blob/master/BaseFrontEndArch.md)
 * [Feature Building](https://github.com/soleo/front-end-building-checklist)
-* [Opquast Web Quality](https://www.opquast.com/opquast-web-quality-checklist/)
 * After Front-End Development
 	* by [thedaviddias](https://frontendchecklist.io/) | [Code](https://github.com/thedaviddias/Front-End-Checklist)
 	* by [drublic](https://github.com/drublic/checklist)
@@ -124,6 +123,7 @@
 	* by [virajkulkarni14](https://github.com/virajkulkarni14/WebDeveloperSecurityChecklist)
 	* by [iamthefrogy](https://github.com/iamthefrogy/Application-Security/blob/master/Web-Security/security-assessment-checklist.md)
 * Launch
+	* by [Opquast](https://www.opquast.com/opquast-web-quality-checklist/) - Include checklists for Ecommerce website and issue certificates
 	* by [HarrisJT](https://weblaunchchecklist.com/) | [Code](https://github.com/HarrisJT/web-launch-checklist)
 	* by [datamade](https://github.com/datamade/site-launch-checklist)
 	* by [mapiec](https://github.com/mapiec/checklist)
