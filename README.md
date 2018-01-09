@@ -122,6 +122,7 @@
 * Security
 	* by [virajkulkarni14](https://github.com/virajkulkarni14/WebDeveloperSecurityChecklist)
 	* by [iamthefrogy](https://github.com/iamthefrogy/Application-Security/blob/master/Web-Security/security-assessment-checklist.md)
+	* by [OWASP](https://www.owasp.org/images/1/19/OTGv4.pdf) - Open Web App Security Project's Testing Guide 4.0
 * Launch
 	* by [Opquast](https://www.opquast.com/opquast-web-quality-checklist/) - Include checklists for Ecommerce website and issue certificates
 	* by [HarrisJT](https://weblaunchchecklist.com/) | [Code](https://github.com/HarrisJT/web-launch-checklist)
