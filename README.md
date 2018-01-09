@@ -251,12 +251,12 @@ Ways you can help
 ### Contribution Guideline
 
 * Use the following format: `[Title](LINK) - DESCRIPTION.`
-* The link should be the url linked to the must-watch list directly.
+* The link should be the url linked to the checklist directly.
 * Add one link per pull-request.
 * Keep descriptions concise, clear and simple, and end them with a period / stop.
 * New categories, or improvements to the existing ones are also welcome.
 * Make sure your text editor is set to remove trailing whitespace.
-* Please add a must-watch badge in the list added. <a href="http://checklist.yingjiehu.com/"><img src="https://img.shields.io/badge/Awesome-Checklist-blue.svg"></a>
+* (Optional) Please add an Awesome Checklist badge in the list added. <a href="http://checklist.yingjiehu.com/"><img src="https://img.shields.io/badge/Awesome-Checklist-blue.svg"></a>
 
 	You can use whatever color you like by replacing `<COLOR>` in 
 	
