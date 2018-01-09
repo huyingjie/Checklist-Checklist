@@ -122,6 +122,7 @@
 * Security
 	* by [virajkulkarni14](https://github.com/virajkulkarni14/WebDeveloperSecurityChecklist)
 	* by [iamthefrogy](https://github.com/iamthefrogy/Application-Security/blob/master/Web-Security/security-assessment-checklist.md)
+	* by [OWASP](https://www.owasp.org/images/1/19/OTGv4.pdf)
 * Launch
 	* by [Opquast](https://www.opquast.com/opquast-web-quality-checklist/) - Include checklists for Ecommerce website and issue certificates
 	* by [HarrisJT](https://weblaunchchecklist.com/) | [Code](https://github.com/HarrisJT/web-launch-checklist)
@@ -129,7 +130,6 @@
 	* by [mapiec](https://github.com/mapiec/checklist)
 	* by [siddharthashok](https://github.com/siddharthashok/Site-Launch-Checklist)
 	* by [kdee15](https://github.com/kdee15/deployment-checklist)
-	* by [OWASP](https://www.owasp.org/images/1/19/OTGv4.pdf)
 * [Performance](https://github.com/antarestupin/performance-checklist)
 
 ## <a id="App-Project-Development"></a>App & Project Development 
