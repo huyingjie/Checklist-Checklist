@@ -5,6 +5,7 @@
   "gulp-wrapper": "^1.0.0"
  },
  "devDependencies": {
+  "gulp-ga": "0.0.8",
   "gulp-markdown": "^1.1.0"
  }
 }
