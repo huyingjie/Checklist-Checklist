@@ -1,5 +1,9 @@
 <h1 align="center"> Awesome Checklist Checklist </h1>
 
+<div align="center">
+	<a target="_blank" href="http://twitter.com/intent/tweet?text=The Curated List of Checklists to increase productivity and security&url=https://t.co/c6pWAAlQok&hashtags=FrontEnd,Webdesign,WordPress,games,SEO,Python,checklists"><img src="https://img.shields.io/twitter/url/http/shields.io.svg?style=social" alt="Tweet"></a>
+</div>
+
 <div align="center">🌈  A Curated List of Checklists ✔︎✔︎</div>
 
 <div align="center" style="padding-bottom:10px">
@@ -59,7 +63,7 @@
 	* by [iand675](https://github.com/iand675/haskell-checklist)
 	* [package](https://github.com/tfausak/haskell-package-checklist)
 * Java
-	* [Java EE 8](https://github.com/hantsy/awesome-javaee8) 
+	* [Java EE 8](https://github.com/hantsy/awesome-javaee8)
 	* [a new Java contract / project / employee](https://github.com/marco76/java-project-checklist)
 * [JavaScript project](http://bitovi.github.io/checklist/) | [Code](https://github.com/bitovi/checklist) | [Video](https://www.youtube.com/watch?v=20ebllexvuc)
 * PHP
@@ -68,11 +72,11 @@
 		* by [sk89q](https://github.com/sk89q/php-security-checklist)
 		* by [Tjoosten](https://github.com/Tjoosten/Security-Checklists)
 	* [Project](https://github.com/codeinphp/php-project-checklist)
-* [Python API](http://python.apichecklist.com/) | [Code](https://github.com/vintasoftware/python-api-checklist) 
+* [Python API](http://python.apichecklist.com/) | [Code](https://github.com/vintasoftware/python-api-checklist)
 * Ruby
 	* [Debugging](https://github.com/flatiron-school/ruby-debugging-checklist)
 * [Symfony2 deployment](http://www.symfony2-checklist.com/) | [Code](https://github.com/winzou/symfony2-checklist)
-* Ruby on Rails 
+* Ruby on Rails
 	* [Upgrade](http://www.rails-upgrade-checklist.com/) | [Code](https://github.com/jwo/rails-upgrade_checklist)
 	* Security
 		* by [brunofacca](https://github.com/brunofacca/zen-rails-security-checklist)
@@ -131,7 +135,7 @@
 	* by [kdee15](https://github.com/kdee15/deployment-checklist)
 * [Performance](https://github.com/antarestupin/performance-checklist)
 
-## <a id="App-Project-Development"></a>App & Project Development 
+## <a id="App-Project-Development"></a>App & Project Development
 * Plan
 	* [UX Recipe](http://uxrecipe.github.io/) | [Code](https://github.com/uxrecipe/uxrecipe.github.io) - Discover, choose and estimate your next UX project tools & techniques.
 	* [Estimation](https://github.com/togakangaroo/estimation-checklist)
@@ -258,24 +262,24 @@ Ways you can help
 * Make sure your text editor is set to remove trailing whitespace.
 * (Optional) Please add an Awesome Checklist badge in the list added. <a href="http://checklist.yingjiehu.com/"><img src="https://img.shields.io/badge/Awesome-Checklist-blue.svg"></a>
 
-	You can use whatever color you like by replacing `<COLOR>` in 
-	
+	You can use whatever color you like by replacing `<COLOR>` in
+
 	`<a href="http://checklist.yingjiehu.com/"><img src="https://img.shields.io/badge/Awesome-Checklist-<CODE>.svg"></a>`.
-	
+
 	Example:
-	
+
 	* pink `ff69b4` <a href="http://checklist.yingjiehu.com/"><img src="https://img.shields.io/badge/Awesome-Checklist-ff69b4.svg"></a>
 
 		`<a href="http://checklist.yingjiehu.com/"><img src="https://img.shields.io/badge/Awesome-Checklist-ff69b4.svg"></a>`
-		
+
 	* red <a href="http://checklist.yingjiehu.com/"><img src="https://img.shields.io/badge/Awesome-Checklist-red.svg"></a>
-	
+
 		`<a href="http://checklist.yingjiehu.com/"><img src="https://img.shields.io/badge/Awesome-Checklist-red.svg"></a>`
-		
+
 	* blue <a href="http://checklist.yingjiehu.com/"><img src="https://img.shields.io/badge/Awesome-Checklist-blue.svg"></a>
-	
+
 		`<a href="http://checklist.yingjiehu.com/"><img src="https://img.shields.io/badge/Awesome-Checklist-blue.svg"></a>`
-		
+
 #### Quality standard
 
 To stay on the list, projects should follow these quality standards:
@@ -294,4 +298,3 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 [OSS Icon]: https://cdn.rawgit.com/Awesome-Windows/Awesome/master/media/OSS.svg
 [Freeware Icon]: https://cdn.rawgit.com/Awesome-Windows/Awesome/master/media/free.svg
-
