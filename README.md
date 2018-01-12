@@ -133,7 +133,7 @@
 	* by [mapiec](https://github.com/mapiec/checklist)
 	* by [siddharthashok](https://github.com/siddharthashok/Site-Launch-Checklist)
 	* by [kdee15](https://github.com/kdee15/deployment-checklist)
-* [Performance](https://github.com/antarestupin/performance-checklist)
+* [Web Application Performance](https://github.com/antarestupin/performance-checklist) - Gathers performance practices to apply when developing a web application.
 
 ## <a id="App-Project-Development"></a>App & Project Development
 * Plan
