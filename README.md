@@ -156,6 +156,7 @@
 	* by [oisin](https://github.com/oisin/app-release-checklist/blob/master/checklist.md)
 	* by [ahmedragab](https://github.com/ahmedragab/iOS-Checklist/wiki)
 * [Ecommerce Website Security](https://github.com/IamHDT/Ecommerce-Website-Security-CheckList)
+* [App Launch Checklist] (https://github.com/IFit9/App-Launch-Checklist)
 * Submit to AppStore
 	* by [stanfy](https://github.com/stanfy/submit-to-appstore-objc)
 	* by [acomito](https://github.com/acomito/expo-to-appstore-checklist)
