@@ -156,13 +156,13 @@
 	* by [oisin](https://github.com/oisin/app-release-checklist/blob/master/checklist.md)
 	* by [ahmedragab](https://github.com/ahmedragab/iOS-Checklist/wiki)
 * [Ecommerce Website Security](https://github.com/IamHDT/Ecommerce-Website-Security-CheckList)
-* [App Launch Checklist](https://github.com/IFit9/App-Launch-Checklist)
 * Submit to AppStore
 	* by [stanfy](https://github.com/stanfy/submit-to-appstore-objc)
 	* by [acomito](https://github.com/acomito/expo-to-appstore-checklist)
 	* by [rossbeale](https://github.com/rossbeale/iOS-App-Store-Submission-Checklist)
 	* by [whitef0x0](https://github.com/whitef0x0/app-store-checklist)
 	* by [DevMountain](https://github.com/DevMountain/ios-code-review-checklist)
+* [Android App Launch](https://github.com/IFit9/App-Launch-Checklist)
 
 ## <a id="WordPress"></a>	WordPress
 * Themes Review
