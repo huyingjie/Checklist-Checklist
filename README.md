@@ -86,6 +86,7 @@
 ### <a id="Front-End-Development"></a>Front-End Development
 * [Before Front-End Development](https://github.com/rcherny/Front-End-Architecture-Checklist/blob/master/BaseFrontEndArch.md)
 * [Feature Building](https://github.com/soleo/front-end-building-checklist)
+* [Front-End Performance Checklist](https://www.smashingmagazine.com/2018/01/front-end-performance-checklist-2018-pdf-pages/) - An overview of all the things to keep in mind when improving performance — from the very start of the process until the final release.
 * After Front-End Development
 	* by [thedaviddias](https://frontendchecklist.io/) | [Code](https://github.com/thedaviddias/Front-End-Checklist)
 	* by [drublic](https://github.com/drublic/checklist)
