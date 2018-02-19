@@ -49,7 +49,7 @@
 * Linux
 	* [Fresh New Linux](https://github.com/jeanleonino/linux-checklist)
 	* [Anderson's 0x539](https://github.com/Forty-Bot/linux-checklist)
-* OS
+* OSX
 	* Fresh New OS
 		* by [grant](https://github.com/grant/new-computer-checklist)
 		* by [abookyun](https://github.com/abookyun/clean-install-your-mac-without-hesitation)
