@@ -143,7 +143,6 @@
 * Project Management
 	* by [smtlaissezfaire](https://github.com/smtlaissezfaire/project_management/blob/master/project_management_checklist.txt)
 	* by [joelparkerhenderson](https://github.com/joelparkerhenderson/project_management_checklist)
-* [Scrum](https://github.com/GuildOfProgrammers/Scrum-Master-Checklist)
 * [Stable System](https://github.com/theodesp/stable-systems-checklist)
 * Open Source
 	* [README](https://github.com/ddbeck/readme-checklist/blob/master/checklist.md)
