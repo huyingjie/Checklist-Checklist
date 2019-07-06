@@ -120,7 +120,7 @@
 	* by [nickoki](https://github.com/nickoki/node_app_checklist)
 	* [Security](https://github.com/jesusprubio/strong-node)
 * [Django](http://djangoappschecklist.com/) | [Code](https://github.com/vintasoftware/django-apps-checklist)
-* [Magneto](https://github.com/magento-hackathon/upgrade-checklist)
+* [Magento](https://github.com/magento-hackathon/upgrade-checklist)
 
 ### <a id="Web-App"></a>Web App
 * Security
