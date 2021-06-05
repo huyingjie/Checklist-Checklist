@@ -216,7 +216,7 @@
 
 ## <a id="Miscellaneous"></a>Miscellaneous
 * [API Security](https://github.com/shieldfy/API-Security-Checklist)
-* [SaaS Security](https://cto-security-checklist.sqreen.io/) | [Code](https://github.com/sqreen/CTOSecurityChecklist)
+* [SaaS Security](https://www.goldfiglabs.com/guide/saas-cto-security-checklist/) | [Code](https://github.com/vikrum/CTOSecurityChecklist)
 * [Style Guide Creation](https://github.com/mrmrs/styleguide-checklist)
 * [Programmer Competency Matrix](http://competency-checklist.appspot.com/)
 * [DevOps](https://devops-security-checklist.sqreen.io/) | [Code](https://github.com/sqreen/DevOpsSecurityChecklist)
