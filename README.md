@@ -134,6 +134,7 @@
 	* by [siddharthashok](https://github.com/siddharthashok/Site-Launch-Checklist)
 	* by [kdee15](https://github.com/kdee15/deployment-checklist)
 * [Web Application Performance](https://github.com/antarestupin/performance-checklist) - Gathers performance practices to apply when developing a web application.
+* [CLI Client: CRUD Applications](https://github.com/flatlogic/cli) - Easily generate new apps using Flatlogic Generator.
 
 ## <a id="App-Project-Development"></a>App & Project Development
 * Plan
