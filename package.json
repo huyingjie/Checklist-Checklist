@@ -6,6 +6,6 @@
  },
  "devDependencies": {
   "gulp-ga": "0.0.8",
-  "gulp-markdown": "^1.1.0"
+  "gulp-markdown": "^7.0.0"
  }
 }
